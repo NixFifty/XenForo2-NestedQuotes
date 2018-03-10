@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\BbCode\\ProcessorAction\\StripQuotes",
+    "to_class": "NF\\NestedQuotes\\XF\\BbCode\\ProcessorAction\\StripQuotes",
+    "execute_order": 10,
+    "active": true
+}
